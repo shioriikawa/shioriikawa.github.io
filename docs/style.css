@@ -1,0 +1,7 @@
+html, body {
+	border:0;
+	margin: 5% 15% 5% 15%; /* top right bottom left */
+	padding:0;
+	background-color: #d3e2e8;
+	font-family: Arial, sans-serif;
+}
